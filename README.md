@@ -28,8 +28,7 @@ For example,
 ```
 python3 train_ggcnn.py --network sparse_ggcnn --dataset cornell --dataset-path /media/aal-ml/Ubuntu_data/olivia/catkin_ws/src/final_olivia --outdir output/ggcnn_sparse_model
 ```
-
-To use in your environment,
+For your environment,
 ```
 python3 train_ggcnn.py --network path-to-the-network --dataset cornell --dataset-path path-to-the-dataset --outdir path-to-the-save folder
 ```
