@@ -4,7 +4,7 @@ The GGCNN is developed with simple encoder-decoder (kind of autoencoder) models.
 
 
 
-##Autoencoder models 
+## Autoencoder models 
 *Denoising autoencoder
 
 *Sparse Autoencoder
