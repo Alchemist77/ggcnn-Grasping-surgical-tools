@@ -5,15 +5,15 @@ The GGCNN is developed with simple encoder-decoder (kind of autoencoder) models.
 
 
 ## Autoencoder models 
-*Denoising autoencoder
+* Denoising autoencoder
 
-*Sparse Autoencoder
+* Sparse Autoencoder
 
-*Contractive Autoencoder
+* Contractive Autoencoder
 
-*Variational Autoencoder
+* Variational Autoencoder
 
-*U-net
+* U-net
 
 
 ## Prerequisites
