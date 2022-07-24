@@ -1,4 +1,4 @@
-It is  extension of Generative Grasping CNN (GG-CNN) (https://github.com/dougsm/ggcnn).
+It is different application using Generative Grasping CNN (GG-CNN) (https://github.com/dougsm/ggcnn).
 
 The GGCNN is developed with simple encoder-decoder (kind of autoencoder) models. We implemented the model with different autoencoder models and also a script to evalute the performance of this network using Kinect v2. Also, we make several scripts for training different models conveniently.  
 
