@@ -33,7 +33,7 @@ python3 train_ggcnn_vit.py --network vit_ggcnn --dataset cornell --dataset-path 
 ```
 For your environment,
 ```
-python3 path-to-the-python script --network path-to-the-network --dataset cornell --dataset-path path-to-the-dataset --outdir path-to-the-save folder
+python3 path-to-the-python --network path-to-the-network --dataset cornell --dataset-path path-to-the-dataset --outdir path-to-the-save folder
 ```
 
 
